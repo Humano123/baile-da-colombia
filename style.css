@@ -9,7 +9,7 @@ body {
     transform: translateY(50%);
     justify-content: center;
     text-align: center;
-    gap: 10px;
+    gap: 1px;
 }
 #secao {
     border: 2px solid black;
@@ -34,7 +34,7 @@ body {
 #all {
     display: flex;
     justify-content: center;
-    gap: 10rem;
+    gap: 10px;
     text-align: start;
 }
 #voltar {
