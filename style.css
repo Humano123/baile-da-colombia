@@ -31,12 +31,6 @@ body {
 #preto {
     color: black;
 }
-#all {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    text-align: start;
-}
 #voltar {
     background-color: black;
     color: white;
